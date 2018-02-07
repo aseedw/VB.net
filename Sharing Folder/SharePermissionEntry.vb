@@ -1,3 +1,6 @@
+'Source : http://www.vbforums.com/showthread.php?616267-Creating-shared-folders-and-specifying-share-permissions
+'Author : chris128
+
 Imports System.Runtime.InteropServices
 
 Public Class SharedFolder
