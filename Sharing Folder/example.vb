@@ -1,4 +1,5 @@
 'Source : http://www.vbforums.com/showthread.php?616267-Creating-shared-folders-and-specifying-share-permissions
+'Title : Creating shared folders and specifying share permissions
 'Author : chris128
 
 'Create a list that will hold our permissions
