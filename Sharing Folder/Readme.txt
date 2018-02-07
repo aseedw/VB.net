@@ -1,0 +1,1 @@
+Also note that these APIs do not seem to work on a 64 bit OS if your program is set to target 64 bit CPU - if you set your project to target x86 then it works fine on 64 bit and 32 bit OS but if you set to AnyCPU then it will only work correctly on a 32 bit OS.
